@@ -1,0 +1,23 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "UserName": "oriana"
+    },
+    {
+      "Id": 2,
+      "UserName": "Maria"
+    }
+  ],
+  "Todos": [
+    {
+      "Id": 1,
+      "Owner": {
+        "Id": 1,
+        "UserName": "oriana"
+      },
+      "Title": "buy milk",
+      "IsCompleted": false
+    }
+  ]
+}

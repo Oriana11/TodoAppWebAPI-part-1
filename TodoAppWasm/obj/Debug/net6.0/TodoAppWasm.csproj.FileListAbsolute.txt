@@ -1,0 +1,5 @@
+C:\Users\Joakim\Desktop\Todo\TodoAppWasm\TodoAppWasm\obj\Debug\net6.0\TodoAppWasm.csproj.AssemblyReference.cache
+C:\Users\Joakim\Desktop\Todo\TodoAppWasm\TodoAppWasm\obj\Debug\net6.0\TodoAppWasm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joakim\Desktop\Todo\TodoAppWasm\TodoAppWasm\obj\Debug\net6.0\TodoAppWasm.AssemblyInfoInputs.cache
+C:\Users\Joakim\Desktop\Todo\TodoAppWasm\TodoAppWasm\obj\Debug\net6.0\TodoAppWasm.AssemblyInfo.cs
+C:\Users\Joakim\Desktop\Todo\TodoAppWasm\TodoAppWasm\obj\Debug\net6.0\TodoAppWasm.csproj.CoreCompileInputs.cache
